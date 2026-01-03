@@ -1,0 +1,8 @@
+Checking formatting...
+[warn] src/App.css
+[warn] src/App.js
+[warn] src/App.test.js
+[warn] src/index.css
+[warn] src/index.js
+[warn] src/setupTests.js
+[warn] Code style issues found in 6 files. Run Prettier with --write to fix.
